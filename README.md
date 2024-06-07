@@ -89,7 +89,7 @@ This project includes the following features:
 Clone the project
 
 ```bash
-  git clone https://github.com/natainditama/auctionx.git
+  git clone https://github.com/imrahulsharmaa/auctionx.git
 ```
 
 Go to the project directory
@@ -125,11 +125,12 @@ Start the php server
 Open http://localhost:5000/public in your web browser
 
 <!-- Contributing -->
-## 👋 Contributing
+## 👋 Contributers
+ **[Rahul Kumar Vishwakarma](link-to-profile)**
+  **[Abhishek Yadav](link-to-profile)**
+   **[Niraj Kumar](link-to-profile)**
 
-<a href="https://github.com/imrahulsharmaa/auctionx/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=natainditama/auctionx" />
-</a><br/>
+
 
 Contributions are always welcome!
 
