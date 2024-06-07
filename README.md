@@ -126,9 +126,9 @@ Open http://localhost:5000/public in your web browser
 
 <!-- Contributing -->
 ## 👋 Contributers
- **[Rahul Kumar Vishwakarma](link-to-profile)**
-  **[Abhishek Yadav](link-to-profile)**
-   **[Niraj Kumar](link-to-profile)**
+ **[Rahul Kumar Vishwakarma](github.com/imrahulsharmaa)**<br>
+  **[Abhishek Yadav](github.com/yugyadavv)**<br>
+   **[Niraj Kumar](github.com/nirajkarya)**
 
 
 
