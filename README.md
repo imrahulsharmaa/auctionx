@@ -28,7 +28,7 @@
 </p>
    
 <h4>
-    <a href="https://github.com/imrahulsharmaa/auctionx/">View Demo</a>
+    <a href="https://imrahulsharmaa.github.io/auctionx/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/imrahulsharmaa/auctionx">Documentation</a>
   <span> · </span>
